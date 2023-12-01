@@ -13,6 +13,8 @@ public class LoggerDemo {
 		
 		log.info("for info only");
 		log.fatal("for fatal only");
+		System.out.println();
+		;
 	}
 
 }
