@@ -1,0 +1,4 @@
+[INFO ] 2023-11-26 14:43:43.101 [main] LoggerDemo - for info only
+[INFO ] 2023-11-26 14:43:43.101 [main] LoggerDemo - for info only
+[FATAL] 2023-11-26 14:43:43.186 [main] LoggerDemo - for fatal only
+[FATAL] 2023-11-26 14:43:43.186 [main] LoggerDemo - for fatal only
